@@ -11,3 +11,7 @@ Step 3 : Using command prompt change your working directory to project folder
 Step 4: For running it on web browser, run this command: ionic serve
 
 For running it on mobile : Attach your android or iphone with computer using USB, make sure that debugging is ON in your phone and run this command -> ionic run android
+
+Note : Its Server is deployed on Bluemix Cloud and its Up and Running.
+
+Start Using it. Cheers :)
